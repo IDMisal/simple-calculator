@@ -1,0 +1,21 @@
+.display {
+    margin-bottom: 20px;
+  }
+  
+  .input {
+    font-size: 20px;
+    min-height: 30px;
+    border: 1px solid #ccc;
+    padding: 5px;
+    background-color: #fff;
+  }
+  
+  .result {
+    font-size: 24px;
+    font-weight: bold;
+    min-height: 40px;
+    border: 1px solid #ccc;
+    padding: 5px;
+    background-color: #e6e6e6;
+  }
+  
